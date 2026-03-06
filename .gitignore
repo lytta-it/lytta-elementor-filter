@@ -1,0 +1,54 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.project
+.buildpath
+.settings/
+
+# Node/npm
+node_modules/
+npm-debug.log
+
+# SCSS/SASS
+.sass-cache/
+*.css.map
+
+# Grunt/Gulp
+.grunt/
+.tmp/
+
+# Log files
+*.log
+
+# Composer
+vendor/
+composer.phar
+composer.lock
+
+# Zips and archives
+*.zip
+*.tar.gz
+*.rar
+
+# Testing and development
+phpunit.xml
+.coverage
+coverage/
+.php-cs-fixer.cache
+phpcs.xml
+
+# Local backup files
+*.bak
+*.swp
+*~
